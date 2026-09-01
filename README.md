@@ -19,7 +19,7 @@
 * Resolução de conflitos e merges;
 * Pull requests e GitHub;
 * Forks;
-* Integração com VSCODE;
+* Integração com Visual Studio Code;
 * GIT FLOW;
 * GITKEEP e GITIGNORE.
 
